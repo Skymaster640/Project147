@@ -1,0 +1,2 @@
+So as I was trying to learn how to make a cone, I learned that you can actually use files in the same folder as your textures. So all of the textures you see were made in paint.
+That will be good to know for upcoming lessons and projects.
